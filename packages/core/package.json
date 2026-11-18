@@ -1,0 +1,10 @@
+{
+  "name": "@games/core",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Shared, framework-free building blocks for grid puzzle games (seeded RNG, grid geometry).",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}

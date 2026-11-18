@@ -1,0 +1,5 @@
+node_modules
+dist
+apps/*/android
+apps/snake/src/levels/levels.json
+package-lock.json

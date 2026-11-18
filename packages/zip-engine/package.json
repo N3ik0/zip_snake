@@ -1,0 +1,13 @@
+{
+  "name": "@games/zip-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Framework-free rules, solver and generator for Zip-style puzzles (one path through every cell, numbered checkpoints in order).",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@games/core": "*"
+  }
+}
